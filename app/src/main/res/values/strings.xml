@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GhilbliAnime</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card">Card</string>
+    <string name="title">Film title</string>
+    <string name="score">Score : 99/100</string>
+    <string name="durasi">Duration : 100 Min</string>
+    <string name="director">Director</string>
+    <string name="producer">Producer</string>
+    <string name="year">Year</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="original_title">Original Title</string>
+    <string name="romanised">Romanised</string>
+    <string name="other_film">Other Films</string>
+    <string name="profile">Profile</string>
+    <string name="motto">\'Just do it.\'</string>
+    <string name="nama">Muhammad \nBeni Fajri</string>
+    <string name="email">m.b.fajri06@gmail.com</string>
+    <string name="github_account">bennyfajri</string>
+    <string name="instagram">benny.fajri</string>
+    <string name="linkedin">Muhammad Beni Fajri</string>
+    <string name="gmail">gmail</string>
+    <string name="facebook_icon">facebook_icon</string>
+    <string name="instagram_account">instagram_account</string>
+    <string name="image_poster">Image Poster</string>
+    <string name="gradient">gradient</string>
+</resources>
